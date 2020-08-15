@@ -3,7 +3,7 @@
 TikTok Social Media Open Source Intellegence Tool
  
 
-## Usage
+## Usagerisakayla
 
 ```python3 tiktokOSINT.py --username USERNAMEHERE --downloadProfilePic```
 
